@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1lOQOWxLd8wP6TU94n4z-luROKqDe2AlM
 TestLora_vi(data_chatbot).ipynb
 
 https://colab.research.google.com/drive/1vcAMBuqcCOcvSjC7K0YIdQAAnp27R2Hc
+
+Sophia Test:
+
+https://colab.research.google.com/drive/1W1J_n_5fBqjy5hkC0qRJidvykXHOu20Q#scrollTo=4NTV1AkVkezc
